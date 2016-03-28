@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+}
+
+.pretty {
+	background-color: blue; 
+	text-align: center;
+	font-family: courier;
+}
+
+a {
+	color: yellow;
+}
